@@ -61,7 +61,7 @@ public class OrderByParser {
             //新的sql
             sql = select.toString();
         } catch (Throwable e) {
-            throw new PageException("处理排序失败: " + e, e);
+            throw new PageException("处理排1序失败: " + e, e);
         }
         return sql + " order by " + orderBy;
     }
