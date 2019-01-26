@@ -31,7 +31,7 @@
     <settings>
         <setting name="cacheEnabled" value="true"/>
         <setting name="lazyLoadingEnabled" value="false"/>
-        <setting name="aggressiveLazyLoading" value="true"/>
+        <setting name="a1ggressiveLazyLoading" value="true"/>
         <!--<setting name="logImpl" value="LOG4J"/>-->
     </settings>
 
